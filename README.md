@@ -10,7 +10,10 @@ yarn global add elm create-elm-app
 
 ## Running the app
 
+after cloning the repo
+
 ```sh
+cd replenysh-elm-app
 elm-app start
 ```
 
